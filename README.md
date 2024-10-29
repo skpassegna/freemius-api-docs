@@ -26,6 +26,8 @@ This repository contains comprehensive, beginner-friendly documentation for the 
    ```
 3. **Open the `TOC.md` file in your browser or Markdown viewer to access the Table of Contents and begin exploring the documentation.**
 
+[TOC.md](Read here)
+
 ## Contributing
 
 Contributions to improve the documentation are very welcome!  If you find any errors, omissions, or areas that could be clarified, please open an issue or submit a pull request.  Your feedback is invaluable in making this documentation a reliable resource for the Freemius community.
