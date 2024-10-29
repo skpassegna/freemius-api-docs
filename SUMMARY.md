@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Freemius API Documentation](README.md)
+* [Freemius API Documentation](<README (1).md>)
+* [Authentication](2.Authentication.md)
+* [Products](3.Products.md)
+* [Users](4.Users.md)
+* [Installs](5.Installs.md)
+* [Licenses](6.Licenses.md)
+* [Subscriptions](7.Subscriptions.md)
+* [Introduction](1.Introduction.md)
+* [Payments](8.Payments.md)
+* [Coupons](9.Coupons.md)
+* [Carts](10.Carts.md)
+* [Trials](11.Trials.md)
+* [Developers (Internal Use)](12.Developers.md)
+* [Errors](13.Errors.md)
+* [Data Structures](14.DataStructures.md)
