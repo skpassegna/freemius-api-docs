@@ -79,6 +79,10 @@ Production API: `https://api.freemius.com/v1`
     - Best Practices
     - Error Handling
 
+## OpenAPI Specification
+
+For more details, you can refer to the [Freemius API OpenAPI Specification](https://freemius.com/help/documentation/api/).
+
 ## Terms of Service
 
 For detailed terms of service, please visit: https://freemius.com/terms/
